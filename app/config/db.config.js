@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "204.48.16.120",
+  HOST: "",
   // PORT: "1434",
-  USER: "SA",
-  PASSWORD: "Finflock123!",
+  USER: "",
+  PASSWORD: "",
   DB: "NODE_TEST",
   dialect: "mssql",
   options: {
